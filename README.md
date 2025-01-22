@@ -2,4 +2,4 @@
 
 Here's a live demo:
 
-https://cryptimus.github.io/fireworks/fireworks.html
+https://arya1064.github.io/fireworks/fireworks.html
